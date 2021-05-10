@@ -29,7 +29,7 @@ After the set up is completed you will be taken to the VM shell and prompted for
 
 Once set you should configure `cx` with `cx --configure`.
 
-Once finished with the VM, close the window or quit (using `exit`) and either suspend or stop the VM with Multipass (i.e. `multipass stop` or `multipass suspend`)
+Once finished with the VM, close the window or quit (using `exit`) and stop the VM with Multipass (i.e. `multipass stop`)
 
 ## Deletion
 You can remove the VM by using the setup script, with the `delete` arguement (i.e. `./cxcli_vm.sh delete`). If you opted to specify a different name for the VM, that needs to be specified (i.e. `/cxcli_vm.sh delete myvm`)
