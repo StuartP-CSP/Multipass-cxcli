@@ -33,3 +33,7 @@ Once finished with the VM, close the window or quit (using `exit`) and stop the 
 
 ## Deletion
 You can remove the VM by using the setup script, with the `delete` arguement (i.e. `./cxcli_vm.sh delete`). If you opted to specify a different name for the VM, that needs to be specified (i.e. `/cxcli_vm.sh delete myvm`)
+
+## Links
+1. (Citrix Blog about `cxcli`)[https://www.citrix.com/blogs/2021/04/28/controlling-citrix-cloud-from-the-cli-a-guide-for-citrix-admins/]
+2. (Multipas Documentation)[https://multipass.run/docs]
